@@ -24,7 +24,9 @@
 - Power supply
 
 
- <strong>curl -sSL https://install.pi-hole.net | bash
+ # Update Raspberry Pi
+ 
+ '''sudo apt update && sudo apt upgrade -y'''
  
 **follow the defult setting!**: [Installation_Process_Step_by_step_2](https://docs.pi-hole.net/main/prerequisites/)
 
