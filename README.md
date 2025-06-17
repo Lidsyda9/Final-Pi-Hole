@@ -19,8 +19,9 @@
 - Raspberry Pi Zero 2 W
 - microSD card (8GB or larger)
 - micro USB power supply
-- Wi-Fi connection
+- Internet connection (Wi-Fi or Ethernet)
 - (Optional) External monitor/keyboard OR SSH access
+- Power supply
 
 
  <strong>curl -sSL https://install.pi-hole.net | bash
