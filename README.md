@@ -44,5 +44,5 @@ Click Apply > OK
 Repeat the procedure for additional network connections you want to change.
 
 
- type in the provided IP Address followed by | /admin | into the URL of any internet browser. In my case I typed | http://192.168.0.132/admin |. It will then request the Pi-Hole Password to access the Web Interface
+ type in the provided IP Address followed by | /admin | into the URL of any internet browser. In my case I typed | http://192.168.0.28/ |. It will then request the Pi-Hole Password to access the Web Interface
 then you will see the dashboard for all the status and how advertiment gets block
