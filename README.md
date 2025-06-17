@@ -57,3 +57,6 @@ This project sets up a simple web server using a Raspberry Pi Zero.
 - Apache web server
 >Running:
 >`sudo chown www-data:www-data /var/www/html/index.html`
+
+**Open Web Browser and visit:**
+
