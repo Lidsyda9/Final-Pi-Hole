@@ -14,7 +14,7 @@
 # How to Set Up a Web Server on a Raspberry Pi – Host Your Own Website! What You Need. Below is everything you need to set up your Raspberry Pi to become a fully functional personal web server.
 
 
-- **A Raspberry Pi** Single-Board Computer (in my case I have used a Raspberry Pi Zero W Rev 1.1 Model 512MB but this can be done perfectly with an earlier lower-spec Pi like the Raspberry Pi 3)
+- **A Raspberry Pi** Single-Board Computer (in my case I have used a Raspberry Pi Zero W Rev 1.1 Model 512MB )
 - First, you’ll need to install Raspberry Pi OS on your Pi.
 - Raspberry Pi Zero 2 W
 - microSD card (8GB or larger)
