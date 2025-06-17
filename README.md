@@ -38,6 +38,6 @@ Open my Pi's IP address in a browser, type in the provided IP Address followed b
 
 # Add Your Own Web Page
 
->cd /var/www/html
+**cd /var/www/html**
 Replace the Html content with my own message:
 >sudo nano index.html
