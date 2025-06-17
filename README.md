@@ -15,10 +15,11 @@
 
 
 - **A Raspberry Pi** Single-Board Computer (in my case I have used a Raspberry Pi Zero W Rev 1.1 Model 512MB but this can be done perfectly with an earlier lower-spec Pi like the Raspberry Pi 3)
-- Raspberry Pi (any model works, Pi 3 or 4 is best)
-- microSD card (16GB+ with Raspberry Pi OS installed)
-- Internet connection (Wi-Fi or Ethernet)
-- Power supply
+- First, you’ll need to install Raspberry Pi OS on your Pi.
+- Raspberry Pi Zero 2 W
+- microSD card (8GB or larger)
+- micro USB power supply
+- Wi-Fi connection
 - (Optional) External monitor/keyboard OR SSH access
 
 
