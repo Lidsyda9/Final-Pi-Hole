@@ -48,8 +48,7 @@ Replace the Html content with my own message:
 This project sets up a simple web server using a Raspberry Pi Zero.
 ## Website Preview
 
-`<h1>Hello from My Raspberry Pi Server!</h1>`
-`<p>This website is powered by a Pi Zero and built as part of my final project.</p>`
+**`<h1>Hello from My Raspberry Pi Server!</h1>`** and **`<p>This website is powered by a Pi Zero and built as part of my final project.</p>`**
 
 ## Features
 
