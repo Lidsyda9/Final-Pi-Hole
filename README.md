@@ -30,3 +30,17 @@
 **Modem/Router Set Up Windows DNS settings are specified in the TCP/IP Properties window for the selected network connection.**
 
 Go to the Control Panel Click Network and Internet > Network and Sharing Center > Change adapter settings Select the connection for which you want to configure Right-click Local Area Connection > Properties Select the Networking tab Select Internet Protocol Version 4 (TCP/IPv4) or Internet Protocol Version 6 (TCP/IPv6) Click Properties Click Advanced Select the DNS tab Click OK Select Use the following DNS server addresses Replace those addresses with the IP addresses of your Pi Restart the connection you selected in step 3 Repeat the procedure for additional network connections you want to change. Setup macOS Click Apple > System Preferences > Network Highlight the connection for which you want to configure DNS Click Advanced Select the DNS tab Click + to replace any listed addresses with, or add, your Pi's IP addresses at the top of the list: Click Apply > OK Repeat the procedure for additional network connections you want to change.
+
+
+Setup
+macOS
+Click Apple > System Preferences > Network
+Highlight the connection for which you want to configure DNS
+Click Advanced
+Select the DNS tab
+Click + to replace any listed addresses with, or add, your Pi's IP addresses at the top of the list:
+Click Apply > OK
+Repeat the procedure for additional network connections you want to change.
+![dns](https://github.com/daothidtern/pihole/assets/110324103/817866b8-9976-4a52-87be-e7b1316a7f50)
+ type in the provided IP Address followed by | /admin | into the URL of any internet browser. In my case I typed | http://192.168.0.132/admin |. It will then request the Pi-Hole Password to access the Web Interface
+then you will see the dashboard for all the status and how advertiment gets block
