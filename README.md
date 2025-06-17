@@ -11,7 +11,8 @@
 
 <!-- markdownlint-enable MD033 -->
 
-# How to set up a PiHole on a Raspberry Pi - Block All Ads and More! What You Need Below is everything you need to set up your Raspberry Pi to become a fully functional Pi-Hole.
+# How to Set Up a Web Server on a Raspberry Pi – Host Your Own Website! What You Need. Below is everything you need to set up your Raspberry Pi to become a fully functional personal web server.
+
 
 - **A Raspberry Pi** Single-Board Computer (in my case I have used a Raspberry Pi Zero W Rev 1.1 Model 512MB but this can be done perfectly with an earlier lower-spec Pi like the Raspberry Pi 3)
 - Micro-SD card: flashed with Raspberry Pi OS
