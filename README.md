@@ -22,3 +22,5 @@
 - Software Build
 - If prompted, type and enter | Y | to continue/confirm installations.
 - sudo apt-get update && sudo apt-get upgrade
+
+ <strong>curl -sSL https://install.pi-hole.net | bash /</strong>
