@@ -3,7 +3,8 @@
 #
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pi-hole/graphics/refs/heads/master/Vortex/vortex_with_text.svg" alt="Pi-hole website" width="168" height="270">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/512px-Raspberry_Pi_Logo.svg.png" 
+     alt="Raspberry Pi Logo" width="168" height="270">
   <br>
   <strong>Homework source code and guide how to set up a pihole  https://core-electronics.com.au/guides/raspberry-pi/pi-hole-raspberry-pi/</strong>
 </p>
