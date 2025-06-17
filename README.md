@@ -25,4 +25,4 @@
 
  <strong>curl -sSL https://install.pi-hole.net | bash
  
-**follow the defult setting! **: runs smoothly with [minimal hardware and software requirements](https://docs.pi-hole.net/main/prerequisites/)
+**follow the defult setting! **: runs smoothly with [Installation_Process_Step_by_step_2](https://docs.pi-hole.net/main/prerequisites/)
