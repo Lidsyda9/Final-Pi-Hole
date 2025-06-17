@@ -33,16 +33,5 @@
 > sudo apt install apache2 -y
 
 
-Setup
-macOS
-Click Apple > System Preferences > Network
-Highlight the connection for which you want to configure DNS
-Click Advanced
-Select the DNS tab
-Click + to replace any listed addresses with, or add, your Pi's IP addresses at the top of the list:
-Click Apply > OK
-Repeat the procedure for additional network connections you want to change.
-
-
- type in the provided IP Address followed by | /admin | into the URL of any internet browser. In my case I typed | http://192.168.0.28/ |. It will then request the Pi-Hole Password to access the Web Interface
-then you will see the dashboard for all the status and how advertiment gets block
+# Check if it works
+Open my Pi's IP address in a browser, type in the provided IP Address followed by | /admin | into the URL of any internet browser. In my case I typed | http://192.168.0.28/ |. Then you should see the **Apache2 Debian Default Page**
