@@ -6,7 +6,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/512px-Raspberry_Pi_Logo.svg.png" 
      alt="Raspberry Pi Logo" width="168" height="270">
   <br>
-  <strong>Homework source code and guide how to set up Web Server  https://mohitdesigns.com/create-web-server-on-raspberry-pi-zero-2-w/</strong>
+  <strong>Homework source code and guide how to set up Web Server  https://forums.raspberrypi.com/viewtopic.php?t=24441</strong>
 </p>
 
 <!-- markdownlint-enable MD033 -->
