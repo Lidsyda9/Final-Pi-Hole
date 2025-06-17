@@ -60,3 +60,4 @@ This project sets up a simple web server using a Raspberry Pi Zero.
 
 **Open Web Browser and visit:**
 
+ <strong> set up Web Server  https://<my_pi_ip></strong>
