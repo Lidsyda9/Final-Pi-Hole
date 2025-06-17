@@ -24,3 +24,4 @@
 - sudo apt-get update && sudo apt-get upgrade
 
  <strong>curl -sSL https://install.pi-hole.net | bash
+**ollow the defult setting! **: Installation_Process_Step_by_Step_2
