@@ -55,3 +55,5 @@ This project sets up a simple web server using a Raspberry Pi Zero.
 - Raspberry Pi Zero W as the host
 - Static HTML content
 - Apache web server
+>Running:
+>`sudo chown www-data:www-data /var/www/html/index.html`
