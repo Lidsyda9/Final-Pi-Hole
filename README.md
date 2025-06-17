@@ -35,3 +35,8 @@
 
 # Check if it works
 Open my Pi's IP address in a browser, type in the provided IP Address followed by | /admin | into the URL of any internet browser. In my case I typed | http://192.168.0.28/ |. Then you should see the **Apache2 Debian Default Page**
+
+# Add Your Own Web Page
+
+> cd /var/www/html
+> sudo nano index.html
