@@ -46,5 +46,5 @@ Replace the Html content with my own message:
 
 I created my own with these:
 
-<h1>Hello from My Raspberry Pi Server!</h1>
+ <strong> <h1>Hello from My Raspberry Pi Server!</h1></strong>
 <p>This website is powered by a Pi Zero and built as part of my final project.</p>
