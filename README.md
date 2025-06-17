@@ -15,15 +15,12 @@
 
 
 - **A Raspberry Pi** Single-Board Computer (in my case I have used a Raspberry Pi Zero W Rev 1.1 Model 512MB but this can be done perfectly with an earlier lower-spec Pi like the Raspberry Pi 3)
-- Micro-SD card: flashed with Raspberry Pi OS
-- Micro-HDMI to HDMI Cord to connect the system to a Monitor
-- Power Supply
-- Mouse and Keyboard
-- Ethernet Cable (Can use just Wi-Fi if desired)
-- Operational Internet Connected Modem/Router
-- Software Build
-- If prompted, type and enter | Y | to continue/confirm installations.
-- sudo apt-get update && sudo apt-get upgrade
+- Raspberry Pi (any model works, Pi 3 or 4 is best)
+- microSD card (16GB+ with Raspberry Pi OS installed)
+- Internet connection (Wi-Fi or Ethernet)
+- Power supply
+- (Optional) External monitor/keyboard OR SSH access
+
 
  <strong>curl -sSL https://install.pi-hole.net | bash
  
