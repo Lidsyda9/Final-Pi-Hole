@@ -26,11 +26,11 @@
 
  # Update Raspberry Pi
  
- >sudo apt update && sudo apt upgrade -y
+`sudo apt update && sudo apt upgrade -y`
  
 # Install Apache (basic web server)
 
-> sudo apt install apache2 -y
+`sudo apt install apache2 -y`
 
 
 # Check if it works
@@ -38,11 +38,11 @@ Open my Pi's IP address in a browser, type in the provided IP Address followed b
 
 # Add Your Own Web Page
 
->cd /var/www/html
+`cd /var/www/html`
 
 Replace the Html content with my own message:
 
->sudo nano index.html
+`sudo nano index.html`
 
 # My Raspberry Pi Project
 This project sets up a simple web server using a Raspberry Pi Zero.
