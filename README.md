@@ -44,5 +44,6 @@ Replace the Html content with my own message:
 
 >sudo nano index.html
 
-I created my own with these by! '''<h1>Hello from My Raspberry Pi Server!</h1>'''
-'''<p>This website is powered by a Pi Zero and built as part of my final project.</p>'''
+I created my own with these by:
+![<h1>Hello from My Raspberry Pi Server!</h1>]
+![<p>This website is powered by a Pi Zero and built as part of my final project.</p>}
